@@ -78,20 +78,19 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":36.00671550519169,"top":85.84983764929667,"width":28.792338508386578,"height":5.079395371810943} },
-    contagem: { mostrarTexto:false, posicao: {"left":35.393290734824284,"top":85.50460590666134,"width":29.405747678714057,"height":5.309555171188597} }
+    presentes: { mostrarTexto:false, posicao: {"left":21.080207293330673,"top":82.74282165294122,"width":55.98724852735622,"height":6.805517320788467} },
+    contagem: { mostrarTexto:false, posicao: {"left":21.693616463658152,"top":83.66340213747712,"width":55.16933843350639,"height":6.805531038773214} }
   },
-
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
   // Valores em PORCENTAGEM da imagem (0 a 100). Para evitar mexer à mão,
   // use o editor (?editor=1) e cole o resultado aqui.
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:30.152552103435234, top:68.75141688824222, width:15.963051299960064, height:8.457313468111106 },
-        map: { left:54.5997314905745, top:68.40616244113869, width:15.816417584944034, height:8.522993865832865 },
-        gift: { left:30.268943427396323, top:80.82343586222751, width:15.68212110623003, height:8.758561567922982 },
-        countdown: { left:54.19227547112636, top:80.82344464173777, width:16.091060553115014, height:9.218853730708798 }
+        confirm: { left:19.724455807508715, top:56.89871371654756, width:23.324070544169327, height:14.55628119963579 },
+        map: { left:57.053399371964275, top:57.24389751362277, width:22.35955793538333, height:14.276733695757947 },
+        gift: { left:19.227406761062454, top:76.68074494058351, width:24.883399061501596, height:14.742447479240973 },
+        countdown: { left:55.62357913526374, top:76.91089541173154, width:24.883399061501596, height:14.742438699730736 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
@@ -106,7 +105,7 @@ window.CONFIG = {
     textoFinal: "A festa começou!",
     corNumero: "#ffffff",
     corLegenda: "#ffffff",
-    posicao: { left:21.495188947683705, top:57.20598372788013, width:56.19169641074281, height:6.218642289127358 }
+    posicao: { left:8.408892646765171, top:48.920584325571625, width:82.9776357827476, height:9.670881797327288 }
   },
 
   // ----- MÚSICA DE FUNDO -------------------------------------------------
